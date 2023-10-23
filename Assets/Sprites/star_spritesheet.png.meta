@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: 7143369cd4c44144cadcafca4b3e7145
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: star_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 701
+        width: 460
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a28513b85866343b3801253f44cbc3
+      internalID: -617751802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 701
+        width: 460
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9fd183e346c314b924edb5fdd99746
+      internalID: 1616389164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 701
+        width: 460
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6ae137e03947d4593e2fa11edc7444
+      internalID: -621644379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 158
+        width: 460
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9dd557a29a0b74d8d0cfa907139fc0
+      internalID: -1012981375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 158
+        width: 460
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5472e3c8f8710af42a841a2a1beade75
+      internalID: -437277643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 154
+        width: 460
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b82f99677a55543a95b57ac3abcc96
+      internalID: -795945738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 154
+        width: 460
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979ce81fbb8b12142940ea1fbabf8cb3
+      internalID: -1461538129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      star_spritesheet_0: 646565181
+      star_spritesheet_1: 975531314
+      star_spritesheet_10: -251695394
+      star_spritesheet_11: -1047189547
+      star_spritesheet_12: -1045291293
+      star_spritesheet_13: 1953129961
+      star_spritesheet_14: -1457678984
+      star_spritesheet_15: 770659153
+      star_spritesheet_16: -892937804
+      star_spritesheet_17: 332795108
+      star_spritesheet_18: -115727217
+      star_spritesheet_19: -938114268
+      star_spritesheet_2: 1996777242
+      star_spritesheet_20: 664581659
+      star_spritesheet_21: 1545867010
+      star_spritesheet_22: -710668642
+      star_spritesheet_23: 655435183
+      star_spritesheet_24: -1012981375
+      star_spritesheet_25: -437277643
+      star_spritesheet_26: 504831995
+      star_spritesheet_27: 232993858
+      star_spritesheet_28: -795945738
+      star_spritesheet_29: 1944066355
+      star_spritesheet_3: -617751802
+      star_spritesheet_30: -1461538129
+      star_spritesheet_31: -1607300542
+      star_spritesheet_32: -1069052527
+      star_spritesheet_33: -437970815
+      star_spritesheet_34: -1345953581
+      star_spritesheet_35: 939885905
+      star_spritesheet_36: 663456682
+      star_spritesheet_37: -1784129376
+      star_spritesheet_38: 258973311
+      star_spritesheet_39: -122605566
+      star_spritesheet_4: 1616389164
+      star_spritesheet_40: -1660354936
+      star_spritesheet_41: 1729808204
+      star_spritesheet_42: 419701305
+      star_spritesheet_43: -1126531074
+      star_spritesheet_44: -1393573552
+      star_spritesheet_5: -621644379
+      star_spritesheet_6: -573557320
+      star_spritesheet_7: -53460502
+      star_spritesheet_8: 1581670921
+      star_spritesheet_9: 508386637
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
