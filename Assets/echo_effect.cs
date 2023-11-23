@@ -13,7 +13,7 @@ public class echo_effect : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        player = GetComponent<Player>();
     }
 
     // Update is called once per frame
